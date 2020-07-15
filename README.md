@@ -4,6 +4,6 @@
 |----------|:-------:|:---------:|
 |Exams     |yes      |2018       |
 |Exercises |yes      |2018       |
-|Notes     |no       |           |
+|Notes     |yes      |2019       |
 |References|yes      |           |
 |Slides    |yes      |2018       |
